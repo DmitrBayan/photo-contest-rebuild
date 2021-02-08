@@ -34,7 +34,7 @@ gem 'omniauth-facebook'
 gem 'omniauth-vkontakte'
 
 # carrierwave to upload photo
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 
 # pagination
 gem 'kaminari'
